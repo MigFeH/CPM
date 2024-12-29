@@ -1,0 +1,49 @@
+33429_01
+12314
+
+33429_01
+24672
+
+
+653 308
+
+
+
+al boton añadir de los premios a canjear no le ponemos 
+mnemonic porque al haber varios paneles con los mismos 
+botones, al tener todos los mismos mnemonics pueden haber
+problemas con el acceso por teclado ya que se podría
+interactuar con un botón añadir que ni al usuario le 
+interesaría. Conclusión: no ponemos mnemonics a los botones
+de los premios para evitar problemas con el acceso por teclado
+
+
+
+CAMBIAR EL FICHERO TICKETS.DAT Y ENTREGAS.DAT POR UNOS NUEVOS
+
+
+el jhindexer no sé si lo hice bien
+no funciona la busqueda correctamente por la ñ
+
+
+
+4. Para que el método setImagenAdaptada no os dé el siguiente
+error: "java.lang.IllegalArgumentException: Width (0) and 
+height (0) must be non-zero " acordaros que debe invocarse 
+en el evento componentResized de la ventana. 
+Además de esta forma siempre que se redimensione la ventana 
+cambiará el tamaño de las imágenes.
+
+
+
+C:\Users\uo287577\Desktop\Practica11Ayuda\RecursosAyuda\jh2.0\javahelp\bin\jhindexer fuentes
+D:\TRABAJOS\Desktop\Practica11Ayuda\RecursosAyuda\jh2.0\javahelp\bin\jhindexer fuentes
+
+
+
+
+PL7-Miguel-Fernández-34313073V
+
+
+398 x 375
+471 x 375
