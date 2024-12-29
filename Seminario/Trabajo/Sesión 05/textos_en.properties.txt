@@ -1,0 +1,6 @@
+textos.title = Example of Internationalization
+textos.msg = This is an example of an internationalized application created by Miguel Fernandez Huerta
+
+bt.es = Change the aplication's languaje to Spanish
+bt.en = Change the aplication's languaje to English
+bt.fr = Change the aplication's languaje to French
